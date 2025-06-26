@@ -1,4 +1,4 @@
-https://badgen.net/badge/:subject/:status/:color?icon=github
+!\[alt text\](https://badgen.net/badge/:subject/:status/:color?icon=github)
 
 📸 Free Photo Generator API
 ===========================
