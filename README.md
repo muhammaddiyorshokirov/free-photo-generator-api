@@ -102,5 +102,6 @@ For bug reports or feature requests, please open an issue in this repository.
 
 > ⚠️ **Note:** Generated images are stored temporarily and will expire after `expires_in_seconds`.
 >
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/username)
+[![Join Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue?logo=telegram)](https://t.me/codegateuz)
+
 
